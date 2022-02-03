@@ -15,10 +15,9 @@ Welcome to your new app.
     // using in _Imports.razor
     List<PersonModel> people;
 
-    protected override Task OnInitializedAsync()
+    protected override async Task OnInitializedAsync()
     {
-        throw new NotImplementedException();
-
         // get list of poeple here
+        people = await _mediator.Send(new GetPersonListQuery());
     }
 }

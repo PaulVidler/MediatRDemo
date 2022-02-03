@@ -1,0 +1,12 @@
+C:\Users\relia\source\repos\CareviewScaffolder\MediatRDemo\DemoLibrary\bin\Debug\net5.0\DemoLibrary.deps.json
+C:\Users\relia\source\repos\CareviewScaffolder\MediatRDemo\DemoLibrary\bin\Debug\net5.0\DemoLibrary.dll
+C:\Users\relia\source\repos\CareviewScaffolder\MediatRDemo\DemoLibrary\bin\Debug\net5.0\ref\DemoLibrary.dll
+C:\Users\relia\source\repos\CareviewScaffolder\MediatRDemo\DemoLibrary\bin\Debug\net5.0\DemoLibrary.pdb
+C:\Users\relia\source\repos\CareviewScaffolder\MediatRDemo\DemoLibrary\obj\Debug\net5.0\DemoLibrary.csproj.AssemblyReference.cache
+C:\Users\relia\source\repos\CareviewScaffolder\MediatRDemo\DemoLibrary\obj\Debug\net5.0\DemoLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\relia\source\repos\CareviewScaffolder\MediatRDemo\DemoLibrary\obj\Debug\net5.0\DemoLibrary.AssemblyInfoInputs.cache
+C:\Users\relia\source\repos\CareviewScaffolder\MediatRDemo\DemoLibrary\obj\Debug\net5.0\DemoLibrary.AssemblyInfo.cs
+C:\Users\relia\source\repos\CareviewScaffolder\MediatRDemo\DemoLibrary\obj\Debug\net5.0\DemoLibrary.csproj.CoreCompileInputs.cache
+C:\Users\relia\source\repos\CareviewScaffolder\MediatRDemo\DemoLibrary\obj\Debug\net5.0\DemoLibrary.dll
+C:\Users\relia\source\repos\CareviewScaffolder\MediatRDemo\DemoLibrary\obj\Debug\net5.0\ref\DemoLibrary.dll
+C:\Users\relia\source\repos\CareviewScaffolder\MediatRDemo\DemoLibrary\obj\Debug\net5.0\DemoLibrary.pdb
