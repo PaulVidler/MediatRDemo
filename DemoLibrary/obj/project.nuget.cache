@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aCJ120kotmfq4BawI1pBFUOMn8fNRtLyKz6cAAifs2E85QepwmSHi9AUFmHvyGelpOLKD7+1RH4zD2DBGDZxYA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\relia\\source\\repos\\CareviewScaffolder\\MediatRDemo\\DemoLibrary\\DemoLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\relia\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
