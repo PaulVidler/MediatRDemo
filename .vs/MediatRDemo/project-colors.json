@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "051621da-2674-4ee9-98af-8c0a431de5a4": {
+      "ProjectGuid": "051621da-2674-4ee9-98af-8c0a431de5a4",
+      "DisplayName": "BlazorUI",
+      "ColorIndex": 0
+    },
+    "48abacb4-5d62-4609-af1f-1f643f1de9b2": {
+      "ProjectGuid": "48abacb4-5d62-4609-af1f-1f643f1de9b2",
+      "DisplayName": "DemoLibrary",
+      "ColorIndex": 1
+    },
+    "42b72f32-4eba-4560-acde-52fd8b194a80": {
+      "ProjectGuid": "42b72f32-4eba-4560-acde-52fd8b194a80",
+      "DisplayName": "DemoApi",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
